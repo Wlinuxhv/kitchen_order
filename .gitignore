@@ -1,11 +1,3 @@
 /.gitignore
-/my_linuxsrv/ksystem.db
-/my_linuxsrv/cyberServer
-/my_linuxsrv/Siproj
-
-/my_linuxcli/ksystem.db
-/my_linuxcli/cybercli
-/my_linuxcli/Siproj
-
 
 
